@@ -5,7 +5,8 @@ import React from 'react'
 function App() {
   return (
     <div>
-      <h1>Header</h1>
+      <h1 className= "heading">Header</h1>
+
     </div>
   )
 }
