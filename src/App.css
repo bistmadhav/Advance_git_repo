@@ -4,5 +4,11 @@
   text-decoration: cornflowerblue;
   text-align: center;
   margin-top: 0ex;
+
   nav-left: auto;
+
+  text-decoration: dashed;
+  transition: 0ms;
+
+
 }
