@@ -1,4 +1,7 @@
- .heading {
+.heading {
   color: aqua;
-  background-color: black;
+  background-color: brown;
+  text-decoration: cornflowerblue;
+  text-align: center;
+  margin-top: 0ex;
 }
