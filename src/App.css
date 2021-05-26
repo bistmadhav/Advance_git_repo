@@ -4,5 +4,7 @@
   text-decoration: cornflowerblue;
   text-align: center;
   margin-top: 0ex;
+  text-decoration: dashed;
+  transition: 0ms;
 
 }
